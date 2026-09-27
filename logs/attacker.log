@@ -1,0 +1,170 @@
+2026-09-18 17:31:25,696 [rogue-dhcp] Rogue DHCP server up on v-attacker (attacker_ip=10.0.0.66 mac=f2:87:72:13:57:c8) - gateway/dns -> 10.0.0.66
+2026-09-18 17:34:39,465 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=4517e101) -> forged OFFER of 10.0.0.200 in 0.305 ms
+2026-09-18 17:34:39,465 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.104 ms
+2026-09-18 17:34:39,465 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-18 17:37:02,419 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=009c0e3c) -> forged OFFER of 10.0.0.200 in 0.224 ms
+2026-09-18 17:37:02,419 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.114 ms
+2026-09-18 17:37:02,419 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-18 20:40:51,337 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=91d25e61) -> forged OFFER of 10.0.0.200 in 0.154 ms
+2026-09-18 20:40:51,337 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.064 ms
+2026-09-18 20:40:51,337 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:15:14,507 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=9aa9d935) -> forged OFFER of 10.0.0.200 in 0.139 ms
+2026-09-19 00:15:14,508 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.093 ms
+2026-09-19 00:15:14,508 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:19:41,688 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.333 ms
+2026-09-19 00:19:41,688 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:24:13,688 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.323 ms
+2026-09-19 00:24:13,688 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:28:39,459 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.299 ms
+2026-09-19 00:28:39,459 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:33:10,253 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.333 ms
+2026-09-19 00:33:10,254 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:37:33,251 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.353 ms
+2026-09-19 00:37:33,252 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:41:59,358 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.311 ms
+2026-09-19 00:41:59,358 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:46:22,243 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.341 ms
+2026-09-19 00:46:22,244 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:50:55,613 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.300 ms
+2026-09-19 00:50:55,613 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:55:24,523 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.297 ms
+2026-09-19 00:55:24,523 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 00:59:52,843 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.338 ms
+2026-09-19 00:59:52,844 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:04:20,961 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.294 ms
+2026-09-19 01:04:20,962 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:08:52,799 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.300 ms
+2026-09-19 01:08:52,799 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:13:16,614 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.298 ms
+2026-09-19 01:13:16,614 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:17:53,652 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.308 ms
+2026-09-19 01:17:53,652 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:22:33,033 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.321 ms
+2026-09-19 01:22:33,033 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:27:10,830 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.335 ms
+2026-09-19 01:27:10,831 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:31:41,750 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.344 ms
+2026-09-19 01:31:41,751 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:36:08,982 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.338 ms
+2026-09-19 01:36:08,982 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:50:27,834 [rogue-dhcp] Rogue DHCP server up on v-attacker (attacker_ip=10.0.0.66 mac=f2:87:72:13:57:c8) - gateway/dns -> 10.0.0.66
+2026-09-19 01:51:14,454 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=50fc2712) -> forged OFFER of 10.0.0.200 in 0.436 ms
+2026-09-19 01:51:14,454 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.089 ms
+2026-09-19 01:51:14,454 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 01:55:38,641 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.316 ms
+2026-09-19 01:55:38,641 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:00:01,948 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.329 ms
+2026-09-19 02:00:01,948 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:01:00,644 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=0f6ee216) -> forged OFFER of 10.0.0.200 in 0.308 ms
+2026-09-19 02:01:00,644 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.199 ms
+2026-09-19 02:01:00,644 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:04:29,626 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.333 ms
+2026-09-19 02:04:29,627 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:05:25,322 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.329 ms
+2026-09-19 02:05:25,323 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:05:52,046 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=a133d52a) -> forged OFFER of 10.0.0.200 in 0.322 ms
+2026-09-19 02:05:52,047 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.225 ms
+2026-09-19 02:05:52,047 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:08:59,915 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.332 ms
+2026-09-19 02:08:59,916 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:09:48,435 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.276 ms
+2026-09-19 02:09:48,435 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:10:25,940 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.249 ms
+2026-09-19 02:10:25,940 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:13:24,329 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.362 ms
+2026-09-19 02:13:24,329 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:14:11,500 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.296 ms
+2026-09-19 02:14:11,501 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:14:28,653 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=69d0b864) -> forged OFFER of 10.0.0.200 in 0.381 ms
+2026-09-19 02:14:28,654 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.209 ms
+2026-09-19 02:14:28,654 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:15:01,307 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.360 ms
+2026-09-19 02:15:01,308 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:17:51,652 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.330 ms
+2026-09-19 02:17:51,653 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:18:36,857 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.356 ms
+2026-09-19 02:18:36,858 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:19:00,316 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.330 ms
+2026-09-19 02:19:00,316 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:19:28,343 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.334 ms
+2026-09-19 02:19:28,343 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:21:38,430 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=540a114e) -> forged OFFER of 10.0.0.200 in 0.334 ms
+2026-09-19 02:21:38,430 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.162 ms
+2026-09-19 02:21:38,430 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:22:32,217 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.360 ms
+2026-09-19 02:22:32,218 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:23:05,942 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.282 ms
+2026-09-19 02:23:05,942 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:23:24,874 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.369 ms
+2026-09-19 02:23:24,874 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:24:03,183 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.325 ms
+2026-09-19 02:24:03,184 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:26:03,851 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.336 ms
+2026-09-19 02:26:03,851 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:27:12,939 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.374 ms
+2026-09-19 02:27:12,939 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:27:31,479 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.333 ms
+2026-09-19 02:27:31,479 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:27:53,749 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.306 ms
+2026-09-19 02:27:53,749 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:28:31,577 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.382 ms
+2026-09-19 02:28:31,577 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:30:34,640 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.337 ms
+2026-09-19 02:30:34,640 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:31:36,812 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.264 ms
+2026-09-19 02:31:36,813 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:31:55,146 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.367 ms
+2026-09-19 02:31:55,147 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:32:18,159 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.303 ms
+2026-09-19 02:32:18,159 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:33:08,325 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.304 ms
+2026-09-19 02:33:08,325 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:34:59,427 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.439 ms
+2026-09-19 02:34:59,428 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:36:08,348 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.358 ms
+2026-09-19 02:36:08,348 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:36:31,317 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.291 ms
+2026-09-19 02:36:31,317 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:36:45,363 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.329 ms
+2026-09-19 02:36:45,363 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:37:35,705 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.333 ms
+2026-09-19 02:37:35,705 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:39:31,746 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.348 ms
+2026-09-19 02:39:31,747 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:40:35,300 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.414 ms
+2026-09-19 02:40:35,300 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:41:06,463 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.374 ms
+2026-09-19 02:41:06,464 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:41:10,768 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.367 ms
+2026-09-19 02:41:10,769 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:41:58,964 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.354 ms
+2026-09-19 02:41:58,964 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:43:54,159 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.328 ms
+2026-09-19 02:43:54,159 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:45:03,810 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.279 ms
+2026-09-19 02:45:03,810 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:45:35,383 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.322 ms
+2026-09-19 02:45:35,383 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:45:42,075 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.326 ms
+2026-09-19 02:45:42,075 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:51:30,070 [rogue-dhcp] Rogue DHCP server up on v-attacker (attacker_ip=10.0.0.66 mac=f2:87:72:13:57:c8) - gateway/dns -> 10.0.0.66
+2026-09-19 02:52:06,240 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=5398f178) -> forged OFFER of 10.0.0.200 in 0.481 ms
+2026-09-19 02:52:06,240 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.123 ms
+2026-09-19 02:52:06,240 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:56:35,183 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.282 ms
+2026-09-19 02:56:35,184 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 02:57:39,216 [rogue-dhcp] DISCOVER from 8a:ac:23:55:2a:fa (xid=cae96c29) -> forged OFFER of 10.0.0.200 in 0.351 ms
+2026-09-19 02:57:39,217 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.169 ms
+2026-09-19 02:57:39,217 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 03:01:09,035 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.319 ms
+2026-09-19 03:01:09,036 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 03:02:13,653 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.298 ms
+2026-09-19 03:02:13,653 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 03:05:37,001 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.296 ms
+2026-09-19 03:05:37,001 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 03:06:41,918 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.262 ms
+2026-09-19 03:06:41,918 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 03:10:10,457 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.306 ms
+2026-09-19 03:10:10,457 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66
+2026-09-19 03:11:11,853 [rogue-dhcp] REQUEST from 8a:ac:23:55:2a:fa selected OUR offer -> forged ACK (10.0.0.200) in 0.319 ms
+2026-09-19 03:11:11,853 [rogue-dhcp] VICTIM CAPTURED: mac=8a:ac:23:55:2a:fa ip=10.0.0.200 gateway/dns=10.0.0.66

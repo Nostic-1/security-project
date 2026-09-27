@@ -1,0 +1,6 @@
+{
+  "_comment": "Whitelist of legitimate DHCP servers for this segment - the host-based equivalent of a switch's 'trusted port' list used by DHCP Snooping. Fill in with your real DHCP server's MAC/IP before running dhcp_guard.py.",
+  "trusted_servers": [
+    {"mac": "8e:70:2f:01:f6:27", "ip": "10.0.0.1/24"}
+  ]
+}

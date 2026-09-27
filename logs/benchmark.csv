@@ -1,0 +1,8 @@
+operation,n_iterations,total_seconds,avg_microseconds
+checksum() on ~250B DHCP payload,20000,0.178372,8.919
+build_eth_header,20000,0.040900,2.045
+build_ip_header,20000,0.058137,2.907
+build_udp_header,20000,0.220328,11.016
+build_dhcp_offer_payload,20000,0.063168,3.158
+build_full_offer_frame (end-to-end forge),20000,0.346606,17.330
+parse_full_offer_frame (end-to-end parse),20000,0.182045,9.102
